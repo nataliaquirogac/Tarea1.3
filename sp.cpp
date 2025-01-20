@@ -3,7 +3,7 @@
  Programa para ordenar registros de bitácora por fecha
  * Autores: 
  * José Leobardo Navarro Márquez - A01541324
- * 
+ * Natalia Quiroga Colorado - A01722353
  * 
  * Fecha: 18/01/2025
 */
